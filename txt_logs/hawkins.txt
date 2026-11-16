@@ -1,0 +1,142 @@
+[2026-05-09 17:35:13] El demogorgon D0000 aparece en ALCANTARILLADO
+[2026-05-09 17:35:13] El niño N0001 entra al SÓTANO BYERS
+[2026-05-09 17:35:13] El demogorgon D0000 no encuentra niños en ALCANTARILLADO, esperando...
+[2026-05-09 17:35:14] El niño N0002 entra al SÓTANO BYERS
+[2026-05-09 17:35:14] El niño N0001 selecciona el portal LABORATORIO
+[2026-05-09 17:35:14] El niño N0001 se une al grupo del portal LABORATORIO (1/3 niños)
+[2026-05-09 17:35:16] El niño N0003 entra al SÓTANO BYERS
+[2026-05-09 17:35:16] El niño N0002 selecciona el portal LABORATORIO
+[2026-05-09 17:35:16] El niño N0002 se une al grupo del portal LABORATORIO (2/3 niños)
+[2026-05-09 17:35:17] El niño N0003 selecciona el portal ALCANTARILLADO
+[2026-05-09 17:35:17] El niño N0003 se une al grupo del portal ALCANTARILLADO (1/2 niños)
+[2026-05-09 17:35:18] El niño N0004 entra al SÓTANO BYERS
+[2026-05-09 17:35:18] El demogorgon D0000 se desplaza a BOSQUE
+[2026-05-09 17:35:18] El demogorgon D0000 no encuentra niños en BOSQUE, esperando...
+[2026-05-09 17:35:18] El niño N0005 entra al SÓTANO BYERS
+[2026-05-09 17:35:19] El niño N0004 selecciona el portal CENTRO_COMERCIAL
+[2026-05-09 17:35:19] El niño N0004 se une al grupo del portal CENTRO_COMERCIAL (1/4 niños)
+[2026-05-09 17:35:20] El niño N0005 selecciona el portal BOSQUE
+[2026-05-09 17:35:20] El niño N0005 se une al grupo del portal BOSQUE (1/2 niños)
+[2026-05-09 17:35:20] El niño N0006 entra al SÓTANO BYERS
+[2026-05-09 17:35:21] El niño N0006 selecciona el portal BOSQUE
+[2026-05-09 17:35:21] El niño N0006 se une al grupo del portal BOSQUE (2/2 niños)
+[2026-05-09 17:35:21] El niño N0007 entra al SÓTANO BYERS
+[2026-05-09 17:35:22] El demogorgon D0000 se desplaza a CENTRO_COMERCIAL
+[2026-05-09 17:35:22] El demogorgon D0000 no encuentra niños en CENTRO_COMERCIAL, esperando...
+[2026-05-09 17:35:22] El niño N0006 cruza hacia BOSQUE
+[2026-05-09 17:35:22] El niño N0006 explora BOSQUE
+[2026-05-09 17:35:22] El niño N0007 selecciona el portal LABORATORIO
+[2026-05-09 17:35:22] El niño N0007 se une al grupo del portal LABORATORIO (3/3 niños)
+[2026-05-09 17:35:22] El niño N0008 entra al SÓTANO BYERS
+[2026-05-09 17:35:23] El niño N0005 cruza hacia BOSQUE
+[2026-05-09 17:35:23] El niño N0005 explora BOSQUE
+[2026-05-09 17:35:23] El niño N0007 cruza hacia LABORATORIO
+[2026-05-09 17:35:23] El niño N0007 explora LABORATORIO
+[2026-05-09 17:35:24] El niño N0009 entra al SÓTANO BYERS
+[2026-05-09 17:35:24] El niño N0008 selecciona el portal ALCANTARILLADO
+[2026-05-09 17:35:24] El niño N0008 se une al grupo del portal ALCANTARILLADO (2/2 niños)
+[2026-05-09 17:35:24] El niño N0001 cruza hacia LABORATORIO
+[2026-05-09 17:35:24] El niño N0001 explora LABORATORIO
+[2026-05-09 17:35:25] El niño N0008 cruza hacia ALCANTARILLADO
+[2026-05-09 17:35:25] El niño N0008 explora ALCANTARILLADO
+[2026-05-09 17:35:25] El niño N0002 cruza hacia LABORATORIO
+[2026-05-09 17:35:25] El niño N0002 explora LABORATORIO
+[2026-05-09 17:35:25] El niño N0010 entra al SÓTANO BYERS
+[2026-05-09 17:35:26] El niño N0006 recoge sangre y vuelve al portal
+[2026-05-09 17:35:26] El niño N0009 selecciona el portal ALCANTARILLADO
+[2026-05-09 17:35:26] El niño N0003 cruza hacia ALCANTARILLADO
+[2026-05-09 17:35:26] El niño N0003 explora ALCANTARILLADO
+[2026-05-09 17:35:26] El niño N0009 se une al grupo del portal ALCANTARILLADO (1/2 niños)
+[2026-05-09 17:35:26] El demogorgon D0000 se desplaza a BOSQUE
+[2026-05-09 17:35:26] El demogorgon D0000 ataca al niño N0005 en BOSQUE (capturas: 0)
+[2026-05-09 17:35:26] El niño N0011 entra al SÓTANO BYERS
+[2026-05-09 17:35:26] El niño N0010 selecciona el portal LABORATORIO
+[2026-05-09 17:35:26] El niño N0010 se une al grupo del portal LABORATORIO (1/3 niños)
+[2026-05-09 17:35:27] El niño N0006 regresa a Hawkins
+[2026-05-09 17:35:27] El niño N0006 deposita 1 unidades de sangre
+[2026-05-09 17:35:27] El niño N0006 descansa en RADIO WSQK
+[2026-05-09 17:35:27] El niño N0012 entra al SÓTANO BYERS
+[2026-05-09 17:35:27] El niño N0005 resistió el ataque
+[2026-05-09 17:35:27] El niño N0005 resistió el ataque del demogorgon D0000
+[2026-05-09 17:35:27] El demogorgon D0000 se desplaza a CENTRO_COMERCIAL
+[2026-05-09 17:35:27] El demogorgon D0000 no encuentra niños en CENTRO_COMERCIAL, esperando...
+[2026-05-09 17:35:28] El niño N0005 recoge sangre y vuelve al portal
+[2026-05-09 17:35:28] El niño N0007 recoge sangre y vuelve al portal
+[2026-05-09 17:35:28] El niño N0011 selecciona el portal ALCANTARILLADO
+[2026-05-09 17:35:28] El niño N0011 se une al grupo del portal ALCANTARILLADO (2/2 niños)
+[2026-05-09 17:35:28] El niño N0013 entra al SÓTANO BYERS
+[2026-05-09 17:35:28] El niño N0012 selecciona el portal ALCANTARILLADO
+[2026-05-09 17:35:29] El niño N0001 recoge sangre y vuelve al portal
+[2026-05-09 17:35:29] El niño N0005 regresa a Hawkins
+[2026-05-09 17:35:29] El niño N0005 deposita 1 unidades de sangre
+[2026-05-09 17:35:29] El niño N0005 descansa en RADIO WSQK
+[2026-05-09 17:35:29] El niño N0007 regresa a Hawkins
+[2026-05-09 17:35:29] El niño N0007 deposita 1 unidades de sangre
+[2026-05-09 17:35:29] El niño N0007 descansa en RADIO WSQK
+[2026-05-09 17:35:29] El niño N0011 cruza hacia ALCANTARILLADO
+[2026-05-09 17:35:29] El niño N0011 explora ALCANTARILLADO
+[2026-05-09 17:35:29] El niño N0013 selecciona el portal CENTRO_COMERCIAL
+[2026-05-09 17:35:29] El niño N0013 se une al grupo del portal CENTRO_COMERCIAL (2/4 niños)
+[2026-05-09 17:35:29] El niño N0014 entra al SÓTANO BYERS
+[2026-05-09 17:35:30] El niño N0008 recoge sangre y vuelve al portal
+[2026-05-09 17:35:30] El niño N0015 entra al SÓTANO BYERS
+[2026-05-09 17:35:30] El niño N0002 recoge sangre y vuelve al portal
+[2026-05-09 17:35:30] El niño N0001 regresa a Hawkins
+[2026-05-09 17:35:30] El niño N0001 deposita 1 unidades de sangre
+[2026-05-09 17:35:30] El niño N0001 descansa en RADIO WSQK
+[2026-05-09 17:35:30] El niño N0009 cruza hacia ALCANTARILLADO
+[2026-05-09 17:35:30] El niño N0012 se une al grupo del portal ALCANTARILLADO (1/2 niños)
+[2026-05-09 17:35:30] El niño N0009 explora ALCANTARILLADO
+[2026-05-09 17:35:30] El niño N0006 deambula por CALLE PRINCIPAL
+[2026-05-09 17:35:31] El niño N0003 recoge sangre y vuelve al portal
+[2026-05-09 17:35:31] El niño N0014 selecciona el portal BOSQUE
+[2026-05-09 17:35:31] El niño N0014 se une al grupo del portal BOSQUE (1/2 niños)
+[2026-05-09 17:35:31] El niño N0002 regresa a Hawkins
+[2026-05-09 17:35:31] El niño N0002 deposita 1 unidades de sangre
+[2026-05-09 17:35:31] El niño N0002 descansa en RADIO WSQK
+[2026-05-09 17:35:31] El niño N0016 entra al SÓTANO BYERS
+[2026-05-09 17:35:31] El niño N0008 regresa a Hawkins
+[2026-05-09 17:35:31] El niño N0008 deposita 1 unidades de sangre
+[2026-05-09 17:35:31] El niño N0008 descansa en RADIO WSQK
+[2026-05-09 17:35:31] El niño N0005 deambula por CALLE PRINCIPAL
+[2026-05-09 17:35:31] El niño N0015 selecciona el portal LABORATORIO
+[2026-05-09 17:35:31] El niño N0015 se une al grupo del portal LABORATORIO (2/3 niños)
+[2026-05-09 17:35:31] El niño N0007 deambula por CALLE PRINCIPAL
+[2026-05-09 17:35:32] El niño N0017 entra al SÓTANO BYERS
+[2026-05-09 17:35:32] El niño N0003 regresa a Hawkins
+[2026-05-09 17:35:32] El niño N0003 deposita 1 unidades de sangre
+[2026-05-09 17:35:32] El niño N0003 descansa en RADIO WSQK
+[2026-05-09 17:35:32] El demogorgon D0000 se desplaza a BOSQUE
+[2026-05-09 17:35:32] El demogorgon D0000 no encuentra niños en BOSQUE, esperando...
+[2026-05-09 17:35:32] El niño N0016 selecciona el portal CENTRO_COMERCIAL
+[2026-05-09 17:35:32] El niño N0016 se une al grupo del portal CENTRO_COMERCIAL (3/4 niños)
+[2026-05-09 17:35:32] El niño N0018 entra al SÓTANO BYERS
+[2026-05-09 17:35:33] El niño N0001 deambula por CALLE PRINCIPAL
+[2026-05-09 17:35:33] El niño N0002 deambula por CALLE PRINCIPAL
+[2026-05-09 17:35:33] El niño N0006 entra al SÓTANO BYERS
+[2026-05-09 17:35:34] El niño N0017 selecciona el portal CENTRO_COMERCIAL
+[2026-05-09 17:35:34] El niño N0017 se une al grupo del portal CENTRO_COMERCIAL (4/4 niños)
+[2026-05-09 17:35:34] El niño N0011 recoge sangre y vuelve al portal
+[2026-05-09 17:35:34] El niño N0018 selecciona el portal BOSQUE
+[2026-05-09 17:35:34] El niño N0018 se une al grupo del portal BOSQUE (2/2 niños)
+[2026-05-09 17:35:34] El niño N0009 recoge sangre y vuelve al portal
+[2026-05-09 17:35:34] El niño N0019 entra al SÓTANO BYERS
+[2026-05-09 17:35:34] El niño N0007 entra al SÓTANO BYERS
+[2026-05-09 17:35:35] El niño N0005 entra al SÓTANO BYERS
+[2026-05-09 17:35:35] El niño N0017 cruza hacia CENTRO_COMERCIAL
+[2026-05-09 17:35:35] El niño N0017 explora CENTRO_COMERCIAL
+[2026-05-09 17:35:35] El niño N0011 regresa a Hawkins
+[2026-05-09 17:35:35] El niño N0011 deposita 1 unidades de sangre
+[2026-05-09 17:35:35] El niño N0011 descansa en RADIO WSQK
+[2026-05-09 17:35:35] El niño N0006 selecciona el portal LABORATORIO
+[2026-05-09 17:35:35] El niño N0006 se une al grupo del portal LABORATORIO (3/3 niños)
+[2026-05-09 17:35:35] El niño N0008 deambula por CALLE PRINCIPAL
+[2026-05-09 17:35:35] El niño N0018 cruza hacia BOSQUE
+[2026-05-09 17:35:35] El niño N0018 explora BOSQUE
+[2026-05-09 17:35:35] El niño N0003 deambula por CALLE PRINCIPAL
+[2026-05-09 17:35:35] El niño N0019 selecciona el portal BOSQUE
+[2026-05-09 17:35:36] El niño N0004 cruza hacia CENTRO_COMERCIAL
+[2026-05-09 17:35:36] El niño N0004 explora CENTRO_COMERCIAL
+[2026-05-09 17:35:36] El niño N0009 regresa a Hawkins
+[2026-05-09 17:35:36] El niño N0009 deposita 1 unidades de sangre
+[2026-05-09 17:35:36] El niño N0009 descansa en RADIO WSQK

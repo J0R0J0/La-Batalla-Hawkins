@@ -1,0 +1,6 @@
+# Archivos compilados de Java
+*.class
+
+# Carpeta de Maven
+target/
+
